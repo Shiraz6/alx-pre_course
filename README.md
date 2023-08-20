@@ -1,2 +1,1 @@
-my secomnd redeme
-# alx-pre_course
+My first readme
